@@ -1,23 +1,25 @@
-# Hi there, I'm JaYelamos 👋
+# Hi there, I'm Jose Antonio Yelamos 👋
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning.
+Welcome to my GitHub profile! I'm a passionate SRE/DevOps looking for the best tools to power my job, open-source contributions, and continuous learning.
+I want to generate content on Youtube about CI/CD, IaC and all related with SRE and DevOps in Spanish. I want to be a reference!!
 
 ## About Me
 
-- 🌱 I’m currently learning **[specific technology or topic]**.
+- 🌱 I’m currently learning Amazon Web Services and OpenTofu.
 - 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **[topics you're knowledgeable about]**.
-- 📫 How to reach me: **[your email/contact information]**.
+- 💬 Ask me about **Aazure, Azure DevOps, Biceps**.
+- 📫 How to reach me: **jayelamos@protonmail.com**.
 - ⚡ Fun fact: **[a fun fact about you]**.
 
 ## Skills and Technologies
 
 Here are some of the technologies and tools I work with:
 
-- **Languages**: JavaScript, Python, C++, [add more as needed]
-- **Frameworks and Libraries**: React, Node.js, Express, [add more as needed]
-- **Tools**: Git, Docker, VS Code, [add more as needed]
-- **Databases**: MySQL, MongoDB, PostgreSQL, [add more as needed]
+- **Languages**:  Bash, Biceps, Python, PHP, Javascript
+- **Frameworks and Libraries**: Laravel
+- **Tools**: Git, Docker, VS Code, Kubernetes
+- **Databases**: MySQL
+- **Cloud**: Azure, AWS
 
 ## Projects
 
@@ -38,8 +40,9 @@ Here are a few projects I've worked on:
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/jose-antonio-y%C3%A9lamos-reyes-1106a7a7/))
+- [X/Twitter](https://x.com/s1nf1l)
+- [Mastodon](https://mastodon.social/@s1nf1l)
 - [Personal Website/Blog](https://yourwebsite.com)
 
 Thank you for visiting my profile! 😊
