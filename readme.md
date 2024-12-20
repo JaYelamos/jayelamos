@@ -1,7 +1,7 @@
 # Hi there, I'm Jose Antonio Yelamos 👋
 
 Welcome to my GitHub profile! I'm a passionate SRE/DevOps looking for the best tools to power my job, open-source contributions, and continuous learning.
-I want to generate content on Youtube about CI/CD, IaC and all related with SRE and DevOps in Spanish. I want to be a reference!!
+I want to generate content on Youtube about CI/CD, IaC and all related with SRE and DevOps in Spanish. I want to be your reference!!
 
 ## About Me
 
